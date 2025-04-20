@@ -1,1 +1,5 @@
-#include <stdio.h>\nint main() {\n    printf("Hello ASDT world with tagging\\n");\n    return 0;\n}
+#include <stdio.h>
+int main() {
+    printf("Hello ASDT world with tagging\\n");
+    return 0;
+}
